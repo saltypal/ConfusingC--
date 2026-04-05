@@ -3,7 +3,7 @@ I wanted to clear the concepts of:
 2. pointers
 3. MACROS
 4. Using CMAKE
-5. 
+5. Static and Dynamic library linking
 
 
 For this, I have decided to build a simple parser 
@@ -31,6 +31,7 @@ mkdir build
 cd build
 cmake ..
 cmake --build .
+
 
 
 
